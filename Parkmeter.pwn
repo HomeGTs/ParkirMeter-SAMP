@@ -1,3 +1,4 @@
+//Yang makelar pecah kontol bapaklo
 /********************* PARKING METER BY HomeGT (2019) *********************/
 
 #include <a_samp>
